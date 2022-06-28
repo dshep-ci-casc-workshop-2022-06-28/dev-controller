@@ -1,0 +1,4 @@
+variables:
+- team: dshep-ci-casc-workshop-2022-06-28
+- admin-user: DShepherd-git-admin
+- manager-user: DShepherd-git
